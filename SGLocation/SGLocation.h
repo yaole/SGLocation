@@ -6,6 +6,11 @@
 //  Copyright (c) 2015年 yyx. All rights reserved.
 //
 
+
+//1.在plist文件中添加以下两行
+//NSLocationAlwaysUsageDescription
+//NSLocationWhenInUseUsageDescription
+
 #import <UIKit/UIKit.h>
 #import <CoreLocation/CoreLocation.h>
 
